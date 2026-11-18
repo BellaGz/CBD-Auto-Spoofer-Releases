@@ -20,7 +20,7 @@ Grab the latest version from the **[Releases page](https://github.com/BellaGz/CB
 
 You need a key to unlock the app.
 
-- **Free key 3H:** https://auth.davibevilla.com/getkey/fepunwmdrh
+- **Free 3H key :** https://auth.davibevilla.com/getkey/fepunwmdrh
 - **Buy a key (longer access):** https://crackbabydemon.sell.app
 
 | Plan | Price |
